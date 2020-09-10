@@ -27,9 +27,11 @@
 
         #objective p { font-family:  Serif; font-style: italic; color: #666; }
 
-        dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: left; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
+        dl{ padding: 0.5em }
 
-        dd { width: 600px; float: right;text-align: left; }
+        dt { font-style: italic; font-weight: bold; font-size: 15px; text-align: right; padding: 0 26px 0 0;clear: left; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
+
+        dd { width: 600px; float: right; margin: 0 0 0 110px; padding: 0 0 0.5em 0 }
 
         dd.clear { float: none; margin: 0; height: 15px; }
 
