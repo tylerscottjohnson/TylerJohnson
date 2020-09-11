@@ -31,7 +31,7 @@
 
         dt { font-style: italic; font-weight: bold; font-size: 28px; text-align: right; padding: 0 26px 0 0;clear: left; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
 
-        dd { width: 400px; float: left; margin: 0 0 0 110px; padding: 0 0 0.5em 0 }
+        dd { width: 500px; float: left; margin: 0 0 0 110px; padding: 0 0 0.5em 0 }
 
         dd.clear { float: none; margin: 0; height: 15px; }
 
